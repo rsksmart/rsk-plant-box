@@ -14,7 +14,15 @@
     "type": "git",
     "url": "git+https://github.com/solangegueiros/rsk-plant-box.git"
   },
-  "keywords": ["blockchain", "smart contracts", "ethereum", "truffle", "truffle box", "rsk", "rsksmart"],
+  "keywords": [
+    "blockchain",
+    "smart contracts",
+    "ethereum",
+    "truffle",
+    "truffle box",
+    "rsk",
+    "rsksmart"
+  ],
   "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
   "license": "MIT",
   "bugs": {
@@ -22,9 +30,9 @@
   },
   "homepage": "https://github.com/solangegueiros/rsk-plant-box#readme",
   "dependencies": {
-    "@truffle/hdwallet-provider": "1.0.35"
+    "@truffle/hdwallet-provider": "^1.1.1"
   },
   "devDependencies": {
-    "lite-server": "^2.3.0"
+    "lite-server": "^2.5.4"
   }
 }
