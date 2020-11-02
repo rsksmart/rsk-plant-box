@@ -1,0 +1,30 @@
+{
+  "name": "rsk-plant-box",
+  "version": "1.0.0",
+  "description": "Truffle box configured to create a complete dApp using Truffle framework connected to RSK Networks, including a frontend",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "dev": "lite-server",
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solangegueiros/rsk-plant-box.git"
+  },
+  "keywords": ["blockchain", "smart contracts", "ethereum", "truffle", "truffle box", "rsk", "rsksmart"],
+  "author": "Solange Gueiros <solangegueiros@gmail.com> (https://solange.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solangegueiros/rsk-plant-box/issues"
+  },
+  "homepage": "https://github.com/solangegueiros/rsk-plant-box#readme",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "1.0.35"
+  },
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}

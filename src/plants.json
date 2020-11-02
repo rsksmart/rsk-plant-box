@@ -1,0 +1,98 @@
+[
+  {
+    "id": 0,
+    "name": "Lotus",
+    "picture": "images/lotus.jpg",    
+    "description": "Nelumbo nucifera, also known as lotus, is one of two extant species of aquatic plant in the family Nelumbonaceae."
+  },  
+  {
+    "id": 1,
+    "name": "Orchid",
+    "picture": "images/orchid.jpg",
+    "description": "The Orchidaceae are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant."    
+  },
+  {
+    "id": 2,
+    "name": "Bamboo",
+    "picture": "images/bamboo.jpg",
+    "description": "The bamboos are evergreen perennial flowering plants in the subfamily Bambusoideae of the grass family Poaceae."    
+  },
+  {
+    "id": 3,
+    "name": "Papyrus",
+    "picture": "images/papyrus.jpg",    
+    "description": "Cyperus papyrus is a species of aquatic flowering plant, native to Africa, which forms tall stands of reed-like swamp vegetation in shallow water."
+  },
+  {
+    "id": 4,
+    "name": "Turmeric",
+    "picture": "images/turmeric.jpg",    
+    "description": "Turmeric is a flowering plant, Curcuma longa of the ginger family, Zingiberaceae, the roots of which are used in cooking."    
+  },
+  {
+    "id": 5,
+    "name": "Wasabi",
+    "picture": "images/wasabi.jpg",    
+    "description": "Wasabi or Japanese horseradish is a plant of the family Brassicaceae, which also includes horseradish and mustard in other genera."    
+  },
+  {
+    "id": 6,
+    "name": "Ginger",
+    "picture": "images/ginger.jpg",    
+    "description": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine."  
+  },
+  {
+    "id": 7,
+    "name": "Coffea",
+    "picture": "images/coffea.jpg",    
+    "description": "Coffea species are shrubs or small trees native to tropical and southern Africa and tropical Asia. Some seeds, called coffee beans, are used to flavor various beverages and products."  
+  },  
+  {
+    "id": 8,
+    "name": "Yerba mate",
+    "picture": "images/yerba.jpg",
+    "description": "Yerba mate is native to South America. The leaves of the plant are steeped in hot water to make a beverage known as mate."    
+  },
+  {
+    "id": 9,
+    "name": "Guarana",
+    "picture": "images/guarana.jpg",
+    "description": "Guarana is a climbing plant, native to the Amazon basin and especially common in Brazil. Guarana is best known for the seeds from its fruit."    
+  },
+  {
+    "id": 10,
+    "name": "Paubrasilia",
+    "picture": "images/paubrasilia.jpg",
+    "description": "Paubrasilia echinata is the national tree of Brazil. This plant has a dense, orange-red heartwood that takes a high shine, and it is the premier wood used for making bows for stringed instruments."    
+  },
+  {
+    "id": 11,
+    "name": "Sweetheart",
+    "picture": "images/sweetheart.jpg",    
+    "description": "Sweetheart Plant is a fast-growing climber and one of the most popular foliage plants for growing in a room."    
+  },  
+  {
+    "id": 12,
+    "name": "Orchid 2",
+    "picture": "images/orchid.jpg",
+    "description": "The Orchidaceae are a diverse and widespread family of flowering plants, with blooms that are often colourful and fragrant."    
+  },
+  {
+    "id": 13,
+    "name": "Guarana 2",
+    "picture": "images/guarana.jpg",
+    "description": "Guarana is a climbing plant, native to the Amazon basin and especially common in Brazil. Guarana is best known for the seeds from its fruit."    
+  },
+  {
+    "id": 14,
+    "name": "Bamboo 2",
+    "picture": "images/bamboo.jpg",
+    "description": "The bamboos are evergreen perennial flowering plants in the subfamily Bambusoideae of the grass family Poaceae."    
+  },
+  {
+    "id": 15,
+    "name": "Paubrasilia 2",
+    "picture": "images/paubrasilia.jpg",
+    "description": "Paubrasilia echinata is the national tree of Brazil. This plant has a dense, orange-red heartwood that takes a high shine, and it is the premier wood used for making bows for stringed instruments."    
+  }
+ ]

@@ -1,0 +1,18 @@
+{
+  "ignore": [
+    "README.md",
+    ".gitignore",
+    "box-img-lg.png",
+    "box-img-sm.png",
+    "images/"
+  ],
+  "commands": {
+    "Compile contracts": "truffle compile",
+    "Migrate contracts": "truffle migrate",
+    "Test contracts": "truffle test", 
+    "Run dev server": "npm run dev"
+  },
+  "hooks": {
+    "post-unpack": "npm install"
+  }
+}
