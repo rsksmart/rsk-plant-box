@@ -167,17 +167,7 @@ This Truffle box is already configured to connect to three RSK networks:
 2. testnet
 3. mainnet
 
-Testnet will be used here. For other networks:
-
-**RSK regtest (Local node)**
-
-To use the Truffle box connected to a local node, go to the tutorial [how to use Truffle connected to a local node](https://developers.rsk.co/tutorials/ethereum-devs/truffle-regtest/)
-
-**RSK mainnet**
-
-Follow the same instructions, just replacing `testnet` to `mainnet`.
-
-### RSK testnet
+Testnet will be used here. 
 
 We need to do some tasks:
 
@@ -326,21 +316,7 @@ After the transaction is confirmed, you'll see the button next to the choosed pl
 
 Congratulations👏👏👏! You built and ran a complete dApp on RSK network!
 
-### Where to go from here
-
-- **Go to tutorial**
-
-In the tutorial [using rsk-plant-box](https://developers.rsk.co/tutorials/truffle-boxes/rsk-plant-box/) we covered all the steps with more details, explanations, and images.
-
-- **Check it out other RSK Truffle boxes**
-
-Go to [RSK Truffle boxes](https://developers.rsk.co/tools/truffle/boxes/) to know and experience other boxes.
-
-- **Find more documentation**
-
-Check out the [RSK developers portal](https://developers.rsk.co/).
-
-- **Do you have questions?**
+### Do you have questions?
 
 Ask in the [RSK chat](https://gitter.im/rsksmart/getting-started).
 
